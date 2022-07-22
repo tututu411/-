@@ -1,0 +1,3 @@
+1、	后处理雾效果渲染到透明物体前
+官方文档链接：https://staggart.xyz/unity/sc-post-effects/scpe-docs/?section=fog
+投机取巧解决办法：受影响的物体设置layer使用固定相机渲染
